@@ -112,37 +112,78 @@ var Translations = {
      *
      * All videos have an END state, this should not be defined here as it is an implicit construct.
      */
-    "ChapterSettings": [
+     "ChapterSettings": [
         {
             "label": "Introduction",
             "states": [
                 {
                     "cardId": "START",
-                    "width": 20
+                    "width":15
                 }
             ]
         },
         {
-            "label": "Your Account",
+            "label": "What's It in For You",
             "states": [
                 {
-                    "cardId": "77a834f0",
-                    "width": 20
+                    "cardId": "6f3f4533",
+                    "width": 10
                 },
                 {
-                    "cardId": "c23a68c9",
-                    "width": 20
+                    "cardId": "acae2868",
+                    "width": 10
                 }
             ]
         },
         {
-            "label": "Thank You",
+            "label": "Product Info",
             "states": [
                 {
-                    "cardId": "7b0123a5",
-                    "width": 40
+                    "cardId": "42bca2b4",
+                    "width": 15
                 }
+                
             ]
-        }
+        },
+        {
+            "label": "Active&sharing",
+             "states": [
+                {
+                    "width": 15
+                }
+                
+            ]
+        },       
+        {
+            "label": "pricing",
+            "states": [
+                {
+                    "width": 15
+                }
+                
+            ]
+        },       
+        {
+            "label": "Questions",
+            "states": [
+                {
+                    "cardId": "6dd8eb8e",
+                    "width": 15
+                }
+                
+            ]
+        },       
+        {
+            "label": "Thanks",
+            "states": [
+                {
+                    "cardId": "260ec23d",
+                    "width":10
+                }
+                
+            ]
+        },       
+        
     ]
 }
+

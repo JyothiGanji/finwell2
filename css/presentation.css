@@ -41,6 +41,8 @@
 
 .top-wrapper {
     background: #717171 url("../images/background_tile.png");
+    background-image:no-repeat;
+    background-color:#ffffff;
 }
 
 .fullscreen .top-wrapper {
